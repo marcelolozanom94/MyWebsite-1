@@ -1,0 +1,60 @@
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+  padding: 20px 0px 39px 0px;
+  align-items: center;
+  
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  background-color: rgb(255, 255, 255, .4);
+}
+
+.bandera{
+  height: 150px;
+  width: 150px;
+  border-radius: 75px;
+  object-fit: cover;
+  box-shadow: 0px 0px 10px rgb(96, 96, 96);
+}
+
+.left-section,{
+}
+
+.middle-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.visit-cantabria,
+.visit-cantabria-2{
+  font-size: 40px;
+  font-weight:700;
+  line-height: 60px;
+}
+
+.right-section{
+}
+
+.left-left,
+.right-right{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nombre{
+  font-style: italic;
+  font-weight: 600;
+  position: absolute;
+  top: 150px;
+}
+
+
+
+

@@ -1,0 +1,33 @@
+.upper-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 250px;
+}
+
+.mirador{
+  margin-top: 20px;
+  height: 400px;
+  width: 850px; 
+  object-fit: cover;
+}
+
+.three-pics{
+  margin: 100px 0 100px 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.tres-picos{
+  height: 800px;
+  width: 350px;
+  object-fit: cover;
+}
+
+.tres-picos-2{
+  height: 800px;
+  width: 350px;
+  object-fit: cover;
+  margin-left: 100px;
+  margin-right: 100px;
+}
